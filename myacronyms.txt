@@ -5,3 +5,12 @@
 #
 # Example:
 #   MIA:Missing In Action
+
+ACS:Advanced Camera for Surveys, \textit{Hubble} Space Telescope Instrument
+HSC:\textit{Hubble} Source Catalog
+WFC3:Wide Field Camera 3, \textit{Hubble} Space Telescope Instrument
+SITCOMTN:Rubin Technical Note
+AUF:Astrometric Uncertainty Function
+OR3:Operations Rehearsal 3, a simulation of LSST-like data
+MLE:Maximum-Likelihood Estimator
+MAD:Median Absolute Deviation
